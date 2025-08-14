@@ -1,1 +1,1 @@
-# hello2
+QR feature is added 
